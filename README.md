@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fwonhee-illit-ill%2527it-ru-next-gif-2583646659968248166&psig=AOvVaw15JG1oRjo0Z_hDsicOQ0m0&ust=1729851737563000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJicyoTmpokDFQAAAAAdAAAAABAR"  />
+  <div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:100%;position:relative;"><iframe width="360" height="360" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/97rhji"></iframe></div><p><a href="https://imgflip.com/gif/97rhji">via Imgflip</a></p></div>
 </div>
 
 ###
