@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Nickolas Quinn Budiyono but you can call me Ww<br><br>- 🔭 I’m Studied at Brawijaya University <br>- 📚 I'm currently learning Angular Js and Next Js<br>- ⚡ In my free time, I play basketball, watch movies, and sleep.</p>
+<p align="left">I'm Nickolas Quinn Budiyono but you can call me Ww<br><br>- 🔭 I’m Studied at Brawijaya University <br>- 📚 I'm currently learning Flutter and Next Js<br>- ⚡ In my free time, I play basketball, watch movies, and sleep.</p>
 
 ###
 
