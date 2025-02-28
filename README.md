@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/7Ri5hlcgC7IAAAAM/wonhee-lee-wonhee.gif"  />
+<img align="right" height="160" src="https://media.tenor.com/7Ri5hlcgC7IAAAAM/wonhee-lee-wonhee.gif"  />
 
 ###
 
@@ -52,9 +52,6 @@
 
 ###
 
-<br clear="both">
-<br clear="both">
-<br clear="both">
 <br clear="both">
 
 <div align="center">
