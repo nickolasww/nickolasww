@@ -69,7 +69,7 @@
 
 <p>
   <a href="https://github.com/orgs/bccfilkom">
-    <img src="https://github.com/orgs/bccfilkom" width="40" />
+    <img src="https://github.com/orgs/bccfilkom.png" width="40" />
   </a>
   <a href="https://github.com/bccfilkom-be">
     <img src="https://github.com/bccfilkom-be.png" width="40" />
