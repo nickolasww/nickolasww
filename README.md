@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Nickolas Quinn Budiyono<br><br>- 📚 I'm currently learning Go-lang and flutter<br>- ⚡ In my free time I like to play basketball</p>
+<p align="left">I'm Nickolas Quinn Budiyono<br><br>- 📚 I'm currently learning Laravel and React Native<br>- ⚡ In my free time I like to play basketball</p>
 
 ###
 
