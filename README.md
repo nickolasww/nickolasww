@@ -71,11 +71,23 @@
   <a href="https://github.com/orgs/bccfilkom">
     <img src="https://github.com/bccfilkom.png" width="40" />
   </a>
-  <a href="https://github.com/bccfilkom-be">
-    <img src="https://github.com/bccfilkom-be.png" width="40" />
+  <a href="https://github.com/orgs/bccfilkom-fe">
+    <img src="https://github.com/bccfilkom-fe.png" width="40" />
   </a>
-  <a href="https://github.com/Yayasan-Lembaga-Miryam">
-    <img src="https://github.com/Yayasan-Lembaga-Miryam.png" width="40" />
+  <a href="https://github.com/orgs/gdgc-ub">
+    <img src="https://github.com/gdgc-ub.png" width="40" />
+  </a>
+  <a href="https://github.com/orgs/HackathonUC2025-Hackfest">
+    <img src="https://github.com/HackathonUC2025-Hackfest.png" width="40" />
+  </a>
+   <a href="https://github.com/orgs/VeriChain-Studio">
+    <img src="https://github.com/VeriChain-Studio.png" width="40" />
+  </a>
+  <a href="https://github.com/orgs/hology7">
+    <img src="https://github.com/hology7.png" width="40" />
+  </a>
+  <a href="https://github.com/orgs/braciate">
+    <img src="https://github.com/braciate.png" width="40" />
   </a>
 </p>
 
